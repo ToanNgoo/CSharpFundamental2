@@ -1,0 +1,15 @@
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.csproj.AssemblyReference.cache
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.AssemblyInfoInputs.cache
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.AssemblyInfo.cs
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.csproj.CoreCompileInputs.cache
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\bin\Debug\net6.0\CSharpFundamental2.exe
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\bin\Debug\net6.0\CSharpFundamental2.deps.json
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\bin\Debug\net6.0\CSharpFundamental2.runtimeconfig.json
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\bin\Debug\net6.0\CSharpFundamental2.dll
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\bin\Debug\net6.0\CSharpFundamental2.pdb
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.dll
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\refint\CSharpFundamental2.dll
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.pdb
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\CSharpFundamental2.genruntimeconfig.cache
+C:\Users\ngohuutoan\Desktop\NashTech\dotnet\CSharpFundamental2\obj\Debug\net6.0\ref\CSharpFundamental2.dll
